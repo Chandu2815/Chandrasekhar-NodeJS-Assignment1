@@ -1,9 +1,11 @@
 {
-  "name": "nodejs-assignment2",
+  "name": "chandrasekhar-nodejs-1",
   "version": "1.0.0",
-  "description": "Node.js Web Server Assignment 1",
-  "main": "exercise1.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
   "dependencies": {
-    "express": "^4.19.2"
+    "express": "^4.18.2"
   }
 }
